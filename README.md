@@ -35,6 +35,7 @@ There are several good reasons you should consider committing to this challenge:
 _All projects developed_
 
 * [001 - Four card feature section](https://github.com/romerojoseing/challenge-cards-section) / *Frontend Mentor Challenge* / **HTML - CSS - GitHub**
+* [002 - Auto write text](https://codepen.io/romerojoseing/full/xxVNrVy) / *Community Challenge* / **HTML - CSS - JS - CodePen**
 
 <br>
 
