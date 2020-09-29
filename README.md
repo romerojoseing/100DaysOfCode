@@ -34,7 +34,7 @@ There are several good reasons you should consider committing to this challenge:
 
 _All projects developed_
 
-* *001 - Four card feature section* - **HTML - CSS** - [Link](https://github.com/romerojoseing/challenge-cards-section)
+* [001 - Four card feature section](https://github.com/romerojoseing/challenge-cards-section) - *Frontend Mentor Challenge* - **HTML - CSS**
 
 <br>
 
