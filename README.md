@@ -36,6 +36,7 @@ _All projects developed_
 
 * [001 - Four card feature section](https://github.com/romerojoseing/challenge-cards-section) / *Frontend Mentor Challenge* / **HTML - CSS - GitHub**
 * [002 - Auto write text](https://codepen.io/romerojoseing/pen/xxVNrVy) / *Community Challenge* / **HTML - CSS - JS - CodePen**
+* [003 - 404 Not Found](https://github.com/romerojoseing/challenge-404-Not-Found) / *Dev Challenges* / **HTML - CSS - JS - GitHub**
 
 <br>
 
