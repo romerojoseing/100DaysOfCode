@@ -38,6 +38,7 @@ _All projects developed_
 * [002 - Auto write text](https://codepen.io/romerojoseing/pen/xxVNrVy) / *Community Challenge* / **HTML - CSS - JS - CodePen**
 * [003 - 404 Not Found](https://github.com/romerojoseing/challenge-404-Not-Found) / *Dev Challenges* / **HTML - CSS - JS - GitHub**
 * [004 - Social Dashboard Dark Mode](https://github.com/romerojoseing/social-dashboard) / *Frontend Mentor Challenge* / **HTML - CSS - JS - GitHub**
+* [005 - Test Laravel 8 with Jetstream](https://github.com/romerojoseing/laravel-jetstream) / *Laravel new actualizations* / **PHP - LARAVEL - HTML - CSS - JS - GitHub**
 
 
 <br>
