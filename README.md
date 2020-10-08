@@ -39,7 +39,7 @@ _All projects developed_
 * [003 - 404 Not Found](https://github.com/romerojoseing/challenge-404-Not-Found) / *Dev Challenges* / **HTML - CSS - JS - GitHub**
 * [004 - Social Dashboard Dark Mode](https://github.com/romerojoseing/social-dashboard) / *Frontend Mentor Challenge* / **HTML - CSS - JS - GitHub**
 * [005 - Test Laravel 8 with Jetstream](https://github.com/romerojoseing/laravel-jetstream) / *Laravel new actualizations* / **PHP - LARAVEL - HTML - CSS - JS - GitHub**
-* [006 - Social Dashboard React - Dark Mode](https://github.com/romerojoseing/challenge-social-dashboard) / *Frontend Mentor Challenge And Plus React* / **HTML - CSS - JS - React - GitHub**
+* [006 - Social Dashboard React Dark Mode](https://github.com/romerojoseing/challenge-social-dashboard) / *Frontend Mentor Challenge And Plus* / **HTML - CSS - JS - React - GitHub**
 
 
 <br>
