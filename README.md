@@ -1,6 +1,6 @@
 # 🐱‍👤 #100DaysOfCode: Challenge Accepted
 
-_This challenge is one of the most complicated for developers 👨‍💻, since it requires a lot of perseverance._
+_This challenge is one of the most complicated for developers 👨‍💻, since it requires a lot of perseverance_
 
 ## Rules 📐
 
