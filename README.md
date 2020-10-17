@@ -40,7 +40,7 @@ _All projects developed_
 * [004 - Social Dashboard Dark Mode](https://github.com/romerojoseing/social-dashboard) / *Frontend Mentor Challenge* / **HTML - CSS - JS - GitHub**
 * [005 - Test Laravel 8 with Jetstream](https://github.com/romerojoseing/laravel-jetstream) / *Laravel new actualizations* / **PHP - LARAVEL - HTML - CSS - JS - GitHub**
 * [006 - Social Dashboard React Dark Mode](https://github.com/romerojoseing/challenge-social-dashboard) / *Frontend Mentor Challenge And Plus* / **HTML - CSS - JS - React - GitHub**
-
+* [007 - List of products](https://github.com/romerojoseing/products-app) / *Testing of a new challenge* / **HTML - CSS - JS - Angular - Bootstrap - GitHub**
 
 <br>
 
